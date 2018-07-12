@@ -1,4 +1,4 @@
 # -tomorrow
  tomorrow is forever
-# github url
+# -github url
 https://github.com/Guozhengxu/tomorrow.git
